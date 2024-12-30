@@ -1,5 +1,8 @@
-## Hi there 👋
+## Hey, I am Moiyyad 👋
 
+Thanks for stopping by. I'm an MS Data Science student at the University of Iowa, Spring 25. I work on Web-GIS systems and am currently writing a research paper [_Coming soon_]
+
+I have worked as a Salesforce Consultant, helping Sales, Manufacturing and Financial Service set up and optimize their tech and data management systems.
 <!--
 **msufi98/msufi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
